@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "5574754012",
+    "project_id": "rnfirebasechat-3abbb",
+    "storage_bucket": "rnfirebasechat-3abbb.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:5574754012:android:1d8a064a34751c958cbe19",
+        "android_client_info": {
+          "package_name": "com.bottomnav"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "5574754012-p5morebsobhh9bpc5mhfbslfm2955he8.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBCD3O8qIfqGb6rdzdsh3Cb_FqTnyDp0jQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "5574754012-p5morebsobhh9bpc5mhfbslfm2955he8.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
